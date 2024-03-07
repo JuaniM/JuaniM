@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm an enthusiast data scientist and software developer working at the intersection of Tech, Media and Business. I've opened up this profile to share some of the works I do as part of my nerdiness. The excercises are mostly data problems I pulled from my classes at MIT and from Kaggle, solved using Python.
+
+Hope y'all have fun getting 'in the zone' with me while trying to solve these data and software riddles!
+
+Juani
+
 <!--
 **JuaniM/JuaniM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
